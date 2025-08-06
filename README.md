@@ -23,18 +23,15 @@ Would allow students and school faculty members to keep track of the lost items 
 
 ## Product Spec
 
-### 1. User Stories (Required and Optional)
-
 **Required Must-have Stories**
 
-* Log a lost item
-* Log a found item
-* Browse the inventory of lost and found items
+[] Log a lost item
+[] Log a found item
+[] Browse the inventory of lost and found items
 
 **Optional Nice-to-have Stories**
-
-* Add a picture of the found item
-* Filter the inventory by a category
+[] Add a picture of the found item
+[] Filter the inventory by a category
 
 ### 2. Screen Archetypes
 
