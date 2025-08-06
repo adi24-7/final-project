@@ -14,7 +14,6 @@ Would allow students and school faculty members to keep track of the lost items 
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Social
 - **Mobile:** Mobile is essential for the instant logging of lost or found items. The camera is used to share an image of the items.
 - **Story:** Students and teachers can observe the inventory of lost items from the comfort of their location and work together to find lost belongings. It would also result in a faster turn-out rate for the lost item as the app would push out a notification for when a lost item is reported and a student files a bounty.
