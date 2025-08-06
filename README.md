@@ -25,7 +25,7 @@ Would allow students and school faculty members to keep track of the lost items 
 
 **Required Must-have Stories**
 
-[] Log a lost item
+[ ] Log a lost item
 [] Log a found item
 [] Browse the inventory of lost and found items
 
