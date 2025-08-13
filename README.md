@@ -25,9 +25,9 @@ Would allow students and school faculty members to keep track of the lost items 
 
 **Required Must-have Stories**
 
-- [ ] Log a lost item
-- [ ] Log a found item
-- [ ] Browse the inventory of lost and found items
+- [x] Log a lost item
+- [x] Log a found item
+- [x] Browse the inventory of lost and found items
 
 **Optional Nice-to-have Stories**
 - [ ] Add a picture of the found item
@@ -35,13 +35,13 @@ Would allow students and school faculty members to keep track of the lost items 
 
 ### 2. Screen Archetypes
 
-- [ ] Inventory Screen
+- [x] Inventory Screen
 * User can view all the found items
-- [ ] Report Screen
+- [x] Report Screen
 * User can log an item they found 
-- [ ] Lost Item Screen
+- [x] Lost Item Screen
 * User can report an item they have lost
-- [ ] Submission Recorded
+- [x] Submission Recorded
 * User receives a confirmation message that their report has been recorded
 
 ### 3. Navigation
